@@ -17,6 +17,11 @@ This HTTP method allows to add Potato Bags with validated details. Validations i
 
 Execution:
 -------------
+
+Note: Its a maven project and in any case if you need to rebuild the project please follow the normal maven build steps either from command line or Eclipse.
+1. Commandline :  Go to parent directory and execute the below command.
+`mvn package`
+2. Eclipse : Right click on project. Select Run As > Maven install from dropdown.
 There are two ways to execute this application. Please find below the options:
 * Clone this project in your eclipse and run the SpringBootApplication class (PotatoMarketApplication.class) containing the main method.
 * Download this project in your local directory. Open CMD if you are in Windows, go to the parent directory of the project, and execute the below command.
