@@ -1,0 +1,9 @@
+com.libertyglobal.PotatoMarket
+com.libertyglobal.PotatoMarket.ExceptionHandler
+com.libertyglobal.PotatoMarket.annotations
+com.libertyglobal.PotatoMarket.controllers
+com.libertyglobal.PotatoMarket.data
+com.libertyglobal.PotatoMarket.enumerations
+com.libertyglobal.PotatoMarket.model
+com.libertyglobal.PotatoMarket.service
+com.libertyglobal.PotatoMarket.validators
