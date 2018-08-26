@@ -1,0 +1,49 @@
+{
+	"info": {
+		"_postman_id": "2faaca8a-8774-4500-8245-37aa8517c1ee",
+		"name": "LibertyGlobal",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ListPotatobags",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "AddPotatoBag",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n\t\"numberOfPotatoes\":\"15\",\r\n\t\"supplier\":\"Owel\",\r\n\t\"packagedDateTime\":\"2018-08-24T16:09:41.959\",\r\n\t\"price\": \"34\"\r\n}"
+				},
+				"url": {
+					"raw": "http://localhost:8080/PotatoBag",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"PotatoBag"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
