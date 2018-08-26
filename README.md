@@ -29,7 +29,7 @@ NOTE:
 
 2. Junit test cases included for Repository layer, Controller layer and additional cases of validation.
 
-#### 3. Few features like security has not been included purposely to avoid complexity and keeping in mind the available time.
+3. Few features like security has not been included purposely to avoid complexity and keeping in mind the available time.
 
 4. ID field for Potato Bag which was said to be a randomly generated string has been implemented as a randomly generated long value, since it was used as an Id for the backend H2 table.
 
