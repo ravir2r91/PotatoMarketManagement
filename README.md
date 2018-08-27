@@ -39,3 +39,5 @@ NOTE:
 4. ID field for Potato Bag which was said to be a randomly generated string has been implemented as a randomly generated long value, since it was used as an Id for the backend H2 table.
 
 5. A postman project with two requests has been included to test the API's for convenience. 
+
+6. If you need to look at the tables and data stored in backend, go to H2 Console (http://localhost:8080/h2).
