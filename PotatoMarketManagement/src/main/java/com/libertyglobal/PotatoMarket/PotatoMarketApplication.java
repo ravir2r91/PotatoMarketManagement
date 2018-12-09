@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * Class that can be used to bootstrap and launch this Spring application from a Java main method.
+ * Class that can be used to bootstrap and launch this Spring application from a Java main method. changed from browser.
  * 
  * @author Rabindra Rakshit
  * 
